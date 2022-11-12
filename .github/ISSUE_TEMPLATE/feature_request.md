@@ -1,3 +1,24 @@
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+
 # เว็บแทงหวยออนไลน์ แทงหวย หวยสด ไม่มีเลขอั้น ไม่มีขั้นต่ำ ฝาก-ถอนได้อย่างรวดเร็วและปลอดภัย
 
 สวัสดีชาวคอหวยทุกท่าน ที่ **แทงหวย** ผ่านเว็บหวยออนไลน์ วันนี้เราทีมงานเสาะแสวงหาเว็บหวยที่ดี ได้รับความนิยม ไม่โกง ไม่หนี จ่ายเต็มทุกการแทง ที่ได้รับการตอบรับจากผู้ใช้งานจริง และเราได้ทำการสำรวจมาเรียบร้อยแล้ว ว่าปัจจุบัน คนที่ใช้บริการเว็บแทงหวยออนไลน์ มีอยู่เพียงไม่กี่เว็บที่เป็นอันดับต้นๆ ของประเทศไทย หนึ่งในเว็บหวยที่ดีที่สุดต้องยกให้ หวยดี **เว็บแทงหวยออนไลน์** รองรับระบบธนาคารทุกค่าย ไม่ว่าจะเป็นกสิกร กรุงไทย ออมสิน ธนชาติ ฯลฯ
