@@ -7,7 +7,7 @@
     "เว็บแทงหวยออนไลน์",
     "แทงหวย"
   ],
-  "repository": "https://mondara123@github.com/mondara123/naka03-aaa-master.git",
+  "repository": "https://mondara123@github.com/mondara123/naka03-aaa-master",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
